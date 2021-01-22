@@ -53,7 +53,7 @@ $.ajax({
     data: "datos",
     dataType: 'json',
     success: function (datos) {
-        $.each(response.productos, function (index, el) { 
+        $.each(datos.productos, function (index, el) { 
             const div = $('<div>').attr("class", "categoria");
             const titulo = $('<h3>').text(el.titulo);
             const link = $('<a>').text("Enlace").attr('href', el.link).attr('title', el.titulo).attr('target', "_blank");
