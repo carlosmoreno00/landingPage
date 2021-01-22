@@ -52,7 +52,7 @@ $.ajax({
     url: "https://carlosmoreno00.github.io/landingPage/json/datos.json",
     data: "datos",
     dataType: 'json',
-    success: function (response) {
+    success: function (datos) {
         $.each(response.productos, function (index, el) { 
             const div = $('<div>').attr("class", "categoria");
             const titulo = $('<h3>').text(el.titulo);
