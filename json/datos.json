@@ -1,0 +1,172 @@
+{
+    "productos": [
+        {
+            "titulo": "Coches",
+            "link": "https://es.wallapop.com/search?category_ids=100&latitude=40.4893538&longitude=-3.6827461",
+            "imagen": "https://carlosmoreno00.github.io/landingPage/img/coche.jpg"
+        },
+        {
+            "titulo": "Motos",
+            "link": "https://es.wallapop.com/search?category_ids=14000&latitude=40.4893538&longitude=-3.6827461",
+            "imagen": "https://carlosmoreno00.github.io/landingPage/img/moto.jpg"
+        },
+        {
+            "titulo": "Motor y accesorios",
+            "link": "https://es.wallapop.com/search?category_ids=12800&latitude=40.4893538&longitude=-3.6827461",
+            "imagen": "https://carlosmoreno00.github.io/landingPage/img/motor.png"
+        },
+        {
+            "titulo": "Moda y accesorios",
+            "link": "https://es.wallapop.com/search?category_ids=12465&latitude=40.4893538&longitude=-3.6827461&filters_source=quick_filters",
+            "imagen": "https://carlosmoreno00.github.io/landingPage/img/moda.jpg"
+        },
+        {
+            "titulo": "Inmobiliaria",
+            "link": "https://es.wallapop.com/search?category_ids=200&latitude=40.4893538&longitude=-3.6827461",
+            "imagen": "https://carlosmoreno00.github.io/landingPage/img/inmobiliaria.png"
+        },
+        {
+            "titulo": "TV, audio y foto",
+            "link": "https://es.wallapop.com/search?category_ids=12545&latitude=40.4893538&longitude=-3.6827461",
+            "imagen": "https://carlosmoreno00.github.io/landingPage/img/tv.png"
+        },
+        {
+            "titulo": "Móviles y telefonía",
+            "link": "https://es.wallapop.com/search?category_ids=16000&latitude=40.4893538&longitude=-3.6827461",
+            "imagen": "https://carlosmoreno00.github.io/landingPage/img/movil.png"
+        },
+        {
+            "titulo": "Informática y electrónica",
+            "link": "https://es.wallapop.com/search?category_ids=15000&latitude=40.4893538&longitude=-3.6827461",
+            "imagen": "https://carlosmoreno00.github.io/landingPage/img/ordenador.png"
+        },
+        {
+            "titulo": "Deporte y ocio",
+            "link": "https://es.wallapop.com/search?category_ids=12579&latitude=40.4893538&longitude=-3.6827461",
+            "imagen": "https://carlosmoreno00.github.io/landingPage/img/deporte.png"
+        },
+        {
+            "titulo": "Bicicletas",
+            "link": "https://es.wallapop.com/search?category_ids=17000&latitude=40.4893538&longitude=-3.6827461",
+            "imagen": "https://carlosmoreno00.github.io/landingPage/img/bici.png"
+        },
+        {
+            "titulo": "Consolas y videojuegos",
+            "link": "https://es.wallapop.com/search?category_ids=12900&latitude=40.4893538&longitude=-3.6827461",
+            "imagen": "https://carlosmoreno00.github.io/landingPage/img/consola.png"
+        },
+        {
+            "titulo": "Hogar y jardín",
+            "link": "https://es.wallapop.com/search?category_ids=12467&latitude=40.4893538&longitude=-3.6827461",
+            "imagen": "https://carlosmoreno00.github.io/landingPage/img/hogar.jpg"
+        },
+        {
+            "titulo": "Electrodomésticos",
+            "link": "https://es.wallapop.com/search?category_ids=13100&latitude=40.4893538&longitude=-3.6827461",
+            "imagen": "https://carlosmoreno00.github.io/landingPage/img/electrodomesticos.png"
+        },
+        {
+            "titulo": "Cine, libros y música",
+            "link": "https://es.wallapop.com/search?category_ids=12463&latitude=40.4893538&longitude=-3.6827461",
+            "imagen": "https://carlosmoreno00.github.io/landingPage/img/libro.jpg"
+        },
+        {
+            "titulo": "Niños y bebés",
+            "link": "https://es.wallapop.com/search?category_ids=12461&latitude=40.4893538&longitude=-3.6827461",
+            "imagen": "https://carlosmoreno00.github.io/landingPage/img/bebe.png"
+        },
+        {
+            "titulo": "Coleccionismo",
+            "link": "https://es.wallapop.com/search?category_ids=18000&latitude=40.4893538&longitude=-3.6827461",
+            "imagen": "https://carlosmoreno00.github.io/landingPage/img/coleccion.jpg"
+        },
+        {
+            "titulo": "Materiales de construcción",
+            "link": "https://es.wallapop.com/search?category_ids=19000&latitude=40.4893538&longitude=-3.6827461",
+            "imagen": "https://carlosmoreno00.github.io/landingPage/img/construccion.jpg"
+        },
+        {
+            "titulo": "Industria y agricultura",
+            "link": "https://es.wallapop.com/search?category_ids=20000&latitude=40.4893538&longitude=-3.6827461",
+            "imagen": "https://carlosmoreno00.github.io/landingPage/img/agricultura.png"
+        },
+        {
+            "titulo": "Empleo",
+            "link": "https://es.wallapop.com/search?category_ids=21000&latitude=40.4893538&longitude=-3.6827461",
+            "imagen": "https://carlosmoreno00.github.io/landingPage/img/empleo.png"
+        },
+        {
+            "titulo": "Servicios",
+            "link": "https://es.wallapop.com/search?category_ids=13200&latitude=40.4893538&longitude=-3.6827461",
+            "imagen": "https://carlosmoreno00.github.io/landingPage/img/servicios.png"
+        },
+        {
+            "titulo": "Otros",
+            "link": "https://es.wallapop.com/search?category_ids=12485&latitude=40.4893538&longitude=-3.6827461",
+            "imagen": "https://carlosmoreno00.github.io/landingPage/img/otros.png"
+        }
+    ],
+    
+    "testimonios": [
+        {
+            "nombre": "Salomé Oliveira",
+            "texto": "Es increíble. ¡Las cosas que hay son la bomba! ¡Esto es simplemente increíble! Es exactamente lo que estaba buscando.",
+            "fecha": "28/05/2017",
+            "imagen": "https://carlosmoreno00.github.io/landingPage/img/mujer1.jpg"
+        },
+        {
+            "nombre": "Joel Vergara",
+            "texto": "Estaría perdido sin esta página. Estoy completamente impresionado.",
+            "fecha": "15/10/2018",
+            "imagen": "https://carlosmoreno00.github.io/landingPage/img/hombre1.jpg"
+        },
+        {
+            "nombre": "Estefania Robledo",
+            "texto": "Es increíble.",
+            "fecha": "30/04/2018",
+            "imagen": "https://carlosmoreno00.github.io/landingPage/img/mujer2.jpg"
+        },
+        {
+            "nombre": "Herminio Martos",
+            "texto": "Wallapop es exactamente lo que buscaba. No hace falta decir que estamos extremadamente satisfechos con los resultados.",
+            "fecha": "06/03/2017",
+            "imagen": "https://carlosmoreno00.github.io/landingPage/img/hombre2.jpg"
+        },
+        {
+            "nombre": "Camila Veiga",
+            "texto": "Wallapop debería ser nominado para servicio del año. Gracias chicos, sigan con el buen trabajo! Gracias por el gran servicio.",
+            "fecha": "09/05/2017",
+            "imagen": "https://carlosmoreno00.github.io/landingPage/img/mujer3.jpg"
+        },
+        {
+            "nombre": "Beñat Mejía",
+            "texto": "Lo mejor en la red.",
+            "fecha": "25/04/2018",
+            "imagen": "https://carlosmoreno00.github.io/landingPage/img/hombre3.jpg"
+        },
+        {
+            "nombre": "Adriana de Diego",
+            "texto": "Lo recomendaré a mis compañeros. El servicio fue excelente.",
+            "fecha": "22/12/2014",
+            "imagen": "https://carlosmoreno00.github.io/landingPage/img/mujer4.jpg"
+        },
+        {
+            "nombre": "Mara Gordillo",
+            "texto": "Sigan con el excelente trabajo. Realmente bueno. Estoy muy satisfecho con este servicio.",
+            "fecha": "27/07/2014",
+            "imagen": "https://carlosmoreno00.github.io/landingPage/img/mujer5.jpg"
+        },
+        {
+            "nombre": "Ignacio Ponce",
+            "texto": "He usado Wallapop durante los últimos cinco años y pienso seguir usándolo.",
+            "fecha": "28/08/2016",
+            "imagen": "https://carlosmoreno00.github.io/landingPage/img/hombre4.jpg"
+        },
+        {
+            "nombre": "José Segovia",
+            "texto": "Cada día me gusta más Wallapop porque me hace la vida mucho más fácil. Estoy muy satisfecho con este servicio.",
+            "fecha": "03/02/2018",
+            "imagen": "https://carlosmoreno00.github.io/landingPage/img/hombre5.jpg"
+        }
+    ]
+}
