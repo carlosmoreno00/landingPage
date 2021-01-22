@@ -1,0 +1,190 @@
+/* GLOBALES */
+body, html {
+    width: 99vw;
+}
+
+/* NAVBAR */
+#logo {
+    width: 8vw; 
+    height: 10vh;
+}
+.nav-item b {
+    color: rgb(74, 182, 182);
+    font-size: 18px;
+}
+
+/*HERO IMAGE*/
+.hero-image img {
+    width: 99vw;
+    height: 99vh;
+}
+.hero-image {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+.hero-text {
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.collapse .card {
+    background-color: black;
+}
+
+/*FORMULARIO*/
+.formulario {
+    padding-left: 20px ;
+    padding-bottom: 10px;
+    font-family: 'Lato';
+    background-color: rgb(202, 206, 195);
+}
+form, p {
+    margin: 20px;
+} 
+p.note {
+    color: red;
+} 
+.formulario input, textarea {
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    padding: 4px;
+    width: 300px;
+    margin-top: 10px;
+} 
+label {
+    font-weight: bold;
+    margin-top: 5px;
+} 
+label.error {
+    color: red;
+    display: block;
+    margin-top: 5px;
+} 
+.formulario input.error, textarea.error {
+    border: 1px dashed red;
+    font-weight: 300;
+    color: red;
+}  
+.submit {
+    margin-left: 0;
+    border-radius: 0;
+    background: black;
+    color: white;
+    border: none;
+    font-weight: 300;
+    padding: 10px ;
+    line-height: 1;
+}
+
+/* CATEGORÍAS */
+.productos {
+    background-color: cyan;
+    padding-bottom: 40px;
+}
+.productos h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+.categoria > img {
+    height: 200px;
+    width: 200px;
+    margin: auto;
+}
+.categoria {
+    height: 400px;
+    width: 300px;
+    background-color: #717a7a;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+}
+.categoria > h3 {
+    margin: auto;
+    margin-top: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+}
+.categoria > p {
+    text-align: justify;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.categoria a {
+    color: black;
+    text-align: center;
+    font-size: 18px;
+}
+.categorias {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+
+/* TESTIMONIOS */
+.opiniones {
+    background-color: cyan;
+    padding-bottom: 40px;
+}
+.opiniones h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+.testimonio > img {
+    height: 300px;
+    width: 400px;
+    margin: auto;
+}
+.testimonio {
+    height: 500px;
+    width: 700px;
+    background-color: rgb(162, 167, 153);
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+}
+.testimonio > h3 {
+    margin: auto;
+    margin-top: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+}
+.testimonio  > p {
+    text-align: center;
+    padding-right: 15px;
+    padding-left: 15px;
+    color: white;
+    font-size: 19px;
+}
+.testimonios {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+
+/* FOOTER */
+.footer {
+    padding-top: 5px;
+    font-size: 125%;
+    font-weight: bold;
+}
+
+/* VOLVER INICIO PÁGINA */
+#inicio{
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    display: none;
+}
