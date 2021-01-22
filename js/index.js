@@ -49,7 +49,7 @@ $(document).ready(function() {
 /* CATEGORÍAS */
 $.ajax({
     type: 'GET',
-    url: "json/datos.json",
+    url: "https://carlosmoreno00.github.io/landingPage/json/datos.json",
     data: "datos",
     dataType: 'json',
     success: function (datos) {
@@ -74,7 +74,7 @@ $.ajax({
 let arrayTestimonios=[];
 $.ajax({
     type: 'GET',
-    url: "json/datos.json",
+    url: "https://carlosmoreno00.github.io/landingPage/json/datos.json",
     data: "datos",
     dataType: 'json',
     success: function (datos) {
