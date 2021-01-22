@@ -49,7 +49,7 @@ $(document).ready(function() {
 /* CATEGORÍAS */
 $.ajax({
     type: 'GET',
-    url: "../json",
+    url: "json",
     data: "datos",
     dataType: 'json',
     success: function (response) {
