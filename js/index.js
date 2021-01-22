@@ -73,7 +73,10 @@ $.ajax({
 /* TESTIMONIOS */
 let arrayTestimonios=[];
 $.ajax({
-    url: "../json/datos.json",
+    type: 'GET',
+    url: "https://carlosmoreno00.github.io/landingPage/json/datos.json",
+    data: "datos",
+    dataType: 'json',
     success: function (response) {
         $.each(response.testimonios, function (index, el) {
             const div = $('<div>').attr("class", "testimonio");
