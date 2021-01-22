@@ -49,7 +49,7 @@ $(document).ready(function() {
 /* CATEGORÍAS */
 $.ajax({
     url: "../json/datos.json",
-    timeout:5000,
+    
     success: function (response) {
         $.each(response.productos, function (index, el) { 
             const div = $('<div>').attr("class", "categoria");
@@ -72,7 +72,7 @@ $.ajax({
 let arrayTestimonios=[];
 $.ajax({
     url: "../json/datos.json",
-    timeout: 5000,
+    
     success: function (response) {
         $.each(response.testimonios, function (index, el) {
             const div = $('<div>').attr("class", "testimonio");
