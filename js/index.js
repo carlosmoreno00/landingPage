@@ -49,10 +49,10 @@ $(document).ready(function() {
 /* CATEGORÍAS */
 $.ajax({
     type: 'GET',
-    url: "json/datos.json",
+    url: "https://carlosmoreno00.github.io/landingPage/json/datos.json",
     data: "datos",
     dataType: 'json',
-    success: function (datos) {
+    success: function (response) {
         $.each(response.productos, function (index, el) { 
             const div = $('<div>').attr("class", "categoria");
             const titulo = $('<h3>').text(el.titulo);
