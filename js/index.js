@@ -48,7 +48,11 @@ $(document).ready(function() {
 
 /* CATEGORÍAS */
 $.ajax({
+    type: "Get",
     url: "../json/datos.json",
+    data: "data",
+    dataType: "json",
+    timeout:5000,
     success: function (response) {
         $.each(response.productos, function (index, el) { 
             const div = $('<div>').attr("class", "categoria");
